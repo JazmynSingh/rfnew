@@ -4,7 +4,7 @@ voila
 numpy==1.19.2
 sklearn
 datetime
-re==2.2.1
+re
 time
 pickle
 warnings
