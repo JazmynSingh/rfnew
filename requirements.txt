@@ -4,5 +4,3 @@ voila
 numpy==1.19.2
 sklearn
 datetime
-pickle
-warnings
